@@ -36,5 +36,5 @@ to do this you need to shrink your windows partition first , so that memory can 
 to do this use MiniTool Partition Wizard Free 12.9. link : https://www.partitionwizard.com/free-partition-manager.html 
 6. make sure USB frive where we shifted our downloaded arch is connected to your PC , now reboot using Fn+F12 . 
 
-
+https://www.youtube.com/watch?v=LWhoQnWH4Co
    
